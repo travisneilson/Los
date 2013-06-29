@@ -1,4 +1,4 @@
-Los
+Los - A Small, single-page portfolio site.
 ===
 
-A small, single page portfolio site. Free to use. :)
+Free to use. :)
